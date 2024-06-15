@@ -1,0 +1,11 @@
+/* Criação de classes CSS */
+
+.capa{
+    background: url(Image/Capa\ Planning.jpg) no-repeat fixed center #5EB4E7;
+}
+
+.alinhamento{
+    display: flex;
+    justify-content: center;
+    gap: .1%;
+}
